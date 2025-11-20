@@ -18,7 +18,7 @@ npm install tailwindcss @tailwindcss/vite
   @import "tailwindcss";
 
 
-#Setting up Django
+# Setting up Django
   ## creating virtual environment
     python -m venv .venv
   ## activate virtual environment
