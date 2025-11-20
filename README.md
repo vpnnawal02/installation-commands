@@ -1,11 +1,11 @@
-#React installation
+# React installation
 npm create vite@latest {name of project}
 
 
-#Tailwind installation to React
+# Tailwind installation to React
 npm install tailwindcss @tailwindcss/vite
   
-##in @tailwindcss/vite file
+## in @tailwindcss/vite file
   import { defineConfig } from 'vite'
   import tailwindcss from '@tailwindcss/vite'
   export default defineConfig({
