@@ -1,9 +1,9 @@
 #React installation
-  npm create vite@latest {name of project}
+npm create vite@latest {name of project}
 
 
 #Tailwind installation to React
-  npm install tailwindcss @tailwindcss/vite
+npm install tailwindcss @tailwindcss/vite
   
 ##in @tailwindcss/vite file
   import { defineConfig } from 'vite'
